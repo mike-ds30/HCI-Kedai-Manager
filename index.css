@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+header {
+    background-color: rgb(44, 135, 253);
+    height: 90px;
+    display: flex;
+}
+.home {
+    width: 81px;
+    height: 81px;
+    border-radius:12px;
+    background-color: lightgray;
+    border: lightgray;
+    margin-left: 980px;
+    margin-top: 5px;
+}
+.home:hover {
+    background-color: grey;
+}
+.signup {
+    width: 180px;
+    height: 81px;
+    border-radius:12px;
+    background-color: lightgray;
+    border: lightgray;
+    margin-left: 30px;
+    margin-top: 5px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.signup:hover {
+    background-color: grey;
+}
+main {
+    background-color: rgb(162, 181, 206);
+    height: 220px;
+    padding-top: 50px;
+    display: flex;
+}
+.bigtxt {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 70px;
+}
+.smalltxt {
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 700px;
+    margin-left: 70px;
+}
+.img1 {
+    float: right;
+    margin-left: 100px;
+}
+.ourservices {
+    background-color: rgb(162, 181, 206);
+    height: 45px;
+    padding-top: 0px;
+    display: flex;
+}
+.service {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 620px;
+}
+.main2 {
+    background-color: rgb(162, 181, 206);
+    height: 210px;
+    padding-top: 50px;
+    display: flex;
+}
+.food {
+    margin-left: 300px;
+}
+.services {
+    margin-left: 180px;
+}
+.retail {
+    margin-left: 200px;
+}
+.foodtxt {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.servicestxt {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.retailtxt {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer {
+    background-color: rgb(44, 135, 253);
+    height: 90px;
+    padding-top: 10px;
+    display: flex;
+}
+.bottomtxt {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 20px;
+}
+.findus {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 500px;
+}
+.fb {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.yt {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.ig {
+    margin-left: 10px;
+    margin-top: 15px;
+}

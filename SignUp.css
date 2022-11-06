@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+header {
+    background-color: rgb(44, 135, 253);
+    height: 90px;
+    display: flex;
+}
+.home {
+    width: 81px;
+    height: 81px;
+    border-radius:12px;
+    background-color: lightgray;
+    border: lightgray;
+    margin-left: 980px;
+    margin-top: 5px;
+}
+.home:hover {
+    background-color: grey;
+}
+.signup {
+    width: 180px;
+    height: 81px;
+    border-radius:12px;
+    background-color: lightgray;
+    border: lightgray;
+    margin-left: 30px;
+    margin-top: 5px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.signup:hover {
+    background-color: grey;
+}
+.signuptxt {
+    background-color: rgb(162, 181, 206);
+    display: flex;
+    height: 25px;
+}
+.txt {
+    margin-left: 450px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+main {
+    background-color: rgb(162, 181, 206);
+    height: 500px;
+    padding-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+}
+.forms {
+    text-align: center;
+    margin-left: 330px;
+    font-size: 25px;
+    margin-top: 60px;
+}
+footer {
+    background-color: rgb(44, 135, 253);
+    height: 90px;
+    padding-top: 10px;
+    display: flex;
+}
+.bottomtxt {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 20px;
+}
+.findus {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-left: 500px;
+}
+.fb {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.yt {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.ig {
+    margin-left: 10px;
+    margin-top: 15px;
+}
